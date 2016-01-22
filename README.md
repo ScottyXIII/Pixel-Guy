@@ -6,7 +6,7 @@ A little zelda-like game I have been working on myself using C# in Unity3D.
 My code sits inside the Assets folder.
 
 
-The core code is part of my own (sorta) framework which handles the following... 
+The core code is part of my own framework which handles the following... 
 
 An input system which takes advantage of the bridge pattern to allow ease of changing input buttons and switches between input from 
 a controller to keyboard and vise versa. 
